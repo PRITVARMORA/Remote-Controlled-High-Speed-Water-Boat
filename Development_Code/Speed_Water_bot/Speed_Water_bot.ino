@@ -8,7 +8,7 @@
 uint8_t degree = 45;
 SoftwareSerial BTR (10,11);//(declared rx  ,   declared tx)
 Servo flap;
-//test comments____ignore this lines
+//test comments____ignore this lines.
 
 void setup() {
   flap.attach(flappin);
